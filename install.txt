@@ -1,0 +1,14 @@
+install Dart
+
+http://gekorm.com/dart-windows/
+
+حتما با فیلترشکن دانلود بشه 
+
+cmd => dart
+
+env=> dart/bin
+
+First create dart
+Dart create -t console-simple project1
+Dart create -t conslole-full project2
+Dart create -t package-simple project3
